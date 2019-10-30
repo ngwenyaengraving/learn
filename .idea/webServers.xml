@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b063f588-02a5-4716-af0e-0b45c63eedd6" name="Learn" url="http://learn.devo">
+        <fileTransfer port="0" mountedRoot="C:\PHP Projects\Learn" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
